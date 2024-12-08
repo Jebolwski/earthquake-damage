@@ -72,3 +72,5 @@ The following machine learning models were trained:
 To run the project, ensure the following libraries are installed:
 ```bash
 pip install pandas numpy scikit-learn matplotlib xgboost imbalanced-learn tensorflow
+```
+In the first.ipynb file, the damage_grade is estimated by only taking certain columns without processing the csv file. In the structure.ipynb file, we increase the accuracy value with our own developments.
