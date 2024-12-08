@@ -54,10 +54,18 @@ The following machine learning models were trained:
 
 ## Results
 
+
+structure.ipynb
 | Model                 | Accuracy   |
 |-----------------------|------------|
 | Random Forest         | **93.5%**  |
 | XGBoost               | 84.5%      |
+
+structure.ipynb
+| Model                 | Accuracy   |
+|-----------------------|------------|
+| Random Forest         | **41.5%**  |
+| XGBoost               | 40.2%      |
 
 
 ### Improvements
