@@ -61,7 +61,7 @@ structure.ipynb
 | Random Forest         | **93.5%**  |
 | XGBoost               | 84.5%      |
 
-structure.ipynb
+first.ipynb
 | Model                 | Accuracy   |
 |-----------------------|------------|
 | Random Forest         | **41.5%**  |
